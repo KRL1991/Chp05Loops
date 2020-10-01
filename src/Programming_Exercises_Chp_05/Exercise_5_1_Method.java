@@ -1,7 +1,5 @@
 package Programming_Exercises_Chp_05;
 
-import java.util.Scanner;
-
 public class Exercise_5_1_Method {
     static String pass = "You pass the exam";
     static String failed = "You failed the exam";
