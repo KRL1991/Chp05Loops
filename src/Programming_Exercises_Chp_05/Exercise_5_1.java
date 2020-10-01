@@ -13,5 +13,8 @@ public class Exercise_5_1 {
         Scanner input = new Scanner(System.in);
         int score = input.nextInt();
 
+        System.out.println(Exercise_5_1_Method.passOrFail(score));
+
+
     }
 }
