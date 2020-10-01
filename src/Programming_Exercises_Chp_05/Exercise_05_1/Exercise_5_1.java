@@ -1,4 +1,4 @@
-package Programming_Exercises_Chp_05;
+package Programming_Exercises_Chp_05.Exercise_05_1;
 
 import java.util.Scanner;
 
