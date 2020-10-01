@@ -10,10 +10,8 @@ public class Exercise_5_1_Method {
         String failed = " You failed the exam";
         String outside_parameter = " Invalid score input, input must be between 0 and 100 ";
 
+        Exercise_5_1.score
 
-        System.out.println("Enter your score : ");
-        Scanner input = new Scanner(System.in);
-        int score = input.nextInt();
 
         if (score >= 60) {
             System.out.println(pass);

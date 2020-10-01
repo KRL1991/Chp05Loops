@@ -10,7 +10,7 @@ public class Exercise_5_1_TDD {
         //Expected output: You pass the exam
         System.out.println(" Test case 1 ");
 
-        if (passOrFail();)
+
 
 
 
