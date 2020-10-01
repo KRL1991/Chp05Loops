@@ -18,18 +18,11 @@ public class Exercise_5_1_Method {
         if (score >= 60) {
             System.out.println(pass);
 
-        } else if (score < 60 ) {
+        } else if ((score < 60 ) && (score >=0 )) {
             System.out.println(failed);
 
         } else {
             System.out.println(outside_parameter);
         }
-
-
-
-
-
-
-
     }
 }
