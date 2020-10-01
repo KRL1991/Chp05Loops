@@ -4,23 +4,25 @@ import java.util.Scanner;
 
 public class Exercise_5_1_Method {
 
-    public static void passOrFail(){
+    public static String passOrFail(int score){
 
         String pass = " You pass the exam";
         String failed = " You failed the exam";
         String outside_parameter = " Invalid score input, input must be between 0 and 100 ";
 
-        Exercise_5_1.score
+        System.out.println();
 
 
         if (score >= 60) {
-            System.out.println(pass);
+            return pass;
 
         } else if (score >=0) {
-            System.out.println(failed);
+         return failed;
 
         } else {
-            System.out.println(outside_parameter);
+            return outside_parameter;
         }
+
+
     }
 }
