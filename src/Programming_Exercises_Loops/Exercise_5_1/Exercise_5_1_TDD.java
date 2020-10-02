@@ -1,4 +1,4 @@
-package Programming_Exercises_Chp_05.Exercise_05_1;
+package Programming_Exercises_Loops.Exercise_5_1;
 
 public class Exercise_5_1_TDD {
 
